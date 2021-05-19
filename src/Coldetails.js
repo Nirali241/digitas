@@ -66,6 +66,7 @@ function Coldetails() {
                     </Col>
                 </Row>
                 </Container>
+                
         </div>
     )
 }

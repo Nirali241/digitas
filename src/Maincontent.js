@@ -6,7 +6,7 @@ function Maincontent() {
     return (
         <div style={{ backgroundColor: '#FFFFFF'}}>
             <div >
-                <Home />
+            <Home />
              <Details />
             </div>
         </div>
