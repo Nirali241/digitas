@@ -14,7 +14,7 @@ function Rowdetails() {
                             <Card.Img variant="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-NiC6Z05z8Q_YQbwfJmWY6lIltv-YR2INQ&usqp=CAU" />
                         </Card.Body>
                     </Card>
-                    <Card style={{border: 'none'}}>
+                    <Card style={{border: 'none', paddingTop: '80px'}}>
                     <Card.Body  >
                         <Card.Text>
                         Some quick example text to build on the card title and make up the bulk of
@@ -35,7 +35,7 @@ function Rowdetails() {
                             <Card.Img variant="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqhKDyBcWkfqDdwIhkE0uyM6fyXv7HWNX3g&usqp=CAU" />
                         </Card.Body>
                     </Card>
-                    <Card style={{border: 'none'}}>
+                    <Card style={{border: 'none', paddingTop: '80px'}}>
                     <Card.Body >
                         <Card.Text>
                         Some quick example text to build on the card title and make up the bulk of
