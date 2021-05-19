@@ -4,7 +4,7 @@ import { Image } from 'react-bootstrap'
 function Home() {
     return (
         <div>
-            <Image style={{backgroundSize : 'cover', paddingLeft: '3vw'}} responsive  src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnVzaW5lc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80" fluid />
+            <Image style={{backgroundSize : 'cover', width: '100vw', height: '30vh'}} responsive  src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnVzaW5lc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80" fluid />
             <div style={{position: 'absolute', backgroundColor: '#000000', opacity: '40%', width: '550px', height: '80px', top: '50%', left: '40%'}}>
             </div>
             <p style={{ position: 'absolute', 
